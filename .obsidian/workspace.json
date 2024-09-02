@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "983ea2bbc237393b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cdeef6372aa80d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c738036d10a4a769",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f013ef43ac6fa7d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "98cfe34500aeb194",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15aa1039e7f90f40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37087d16bfebf18d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc6baf6eb9721d58",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fafe684a4adc8165",
+    "type": "split",
+    "children": [
+      {
+        "id": "18c0c0cf5d616ce4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf50a16d9b031ed2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "272ffce68ba83d8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "411782f791146358",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a7f35e5b0ae98ca7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "graph:Abrir vista gráfica": false
+    }
+  },
+  "active": "c738036d10a4a769",
+  "lastOpenFiles": [
+    "Escenarios/HU17-01.md",
+    "HU/HU17.md",
+    "Escenarios/HU16-01.md",
+    "HU/HU16.md",
+    "HU/HU11.md",
+    "HU/HU12.md",
+    "HU/HU13.md",
+    "HU/HU14.md",
+    "HU/HU15.md",
+    "Escenarios/HU15-01.md",
+    "Escenarios/HU14-01.md",
+    "Épica/GESTIÓN DE USUARIOS.md",
+    "Funcionalidad/Alta de usuario.md",
+    "Escenarios/HU01-03.md",
+    "Escenarios/HU03-01.md",
+    "Escenarios/HU13-01.md",
+    "Escenarios/HU12-01.md",
+    "Escenarios/HU11-01.md",
+    "Escenarios/HU10-01.md",
+    "HU/HU10.md",
+    "Escenarios/HU01-01.md",
+    "Escenarios/HU09-01.md",
+    "Roles/Clon de jefe de departamento.md",
+    "HU/HU09.md",
+    "Escenarios/HU08-01.md",
+    "HU/HU08.md",
+    "Observaciones",
+    "Escenarios",
+    "Sin título.canvas",
+    "HU",
+    "Roles",
+    "Funcionalidad",
+    "Épica"
+  ]
+}

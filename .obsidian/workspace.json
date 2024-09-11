@@ -11,8 +11,12 @@
             "id": "c738036d10a4a769",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HU/HU04.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bitaco",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "fafe684a4adc8165",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HU/HU04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HU/HU04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HU/HU04.md"
+              }
             }
           }
         ]
@@ -130,42 +138,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "graph:Abrir vista gráfica": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "c738036d10a4a769",
   "lastOpenFiles": [
-    "Escenarios/HU17-01.md",
-    "HU/HU17.md",
-    "Escenarios/HU16-01.md",
-    "HU/HU16.md",
-    "HU/HU11.md",
-    "HU/HU12.md",
-    "HU/HU13.md",
-    "HU/HU14.md",
-    "HU/HU15.md",
-    "Escenarios/HU15-01.md",
-    "Escenarios/HU14-01.md",
-    "Épica/GESTIÓN DE USUARIOS.md",
-    "Funcionalidad/Alta de usuario.md",
-    "Escenarios/HU01-03.md",
+    "HU/HU03.md",
     "Escenarios/HU03-01.md",
+    "Escenarios/HU04-01.md",
+    "HU/HU04.md",
+    "HU/HU02.md",
+    "Funcionalidad/Registro inicial.md",
+    "Escenarios/HU02-01.md",
+    "HU/HU15.md",
+    "HU/HU16.md",
+    "HU/HU01.md",
+    "Escenarios/HU01-04.md",
+    "Escenarios/HU01-03.md",
+    "Escenarios/HU01-02.md",
+    "Escenarios/HU01-01.md",
+    "HU/HU17.md",
+    "Escenarios/HU17-01.md",
+    "Escenarios/HU16-01.md",
+    "Escenarios/HU15-01.md",
+    "Escenarios/HU09-01.md",
+    "Escenarios/HU14-01.md",
     "Escenarios/HU13-01.md",
     "Escenarios/HU12-01.md",
     "Escenarios/HU11-01.md",
     "Escenarios/HU10-01.md",
-    "HU/HU10.md",
-    "Escenarios/HU01-01.md",
-    "Escenarios/HU09-01.md",
-    "Roles/Clon de jefe de departamento.md",
-    "HU/HU09.md",
     "Escenarios/HU08-01.md",
-    "HU/HU08.md",
+    "Escenarios/HU07-01.md",
     "Observaciones",
     "Escenarios",
     "Sin título.canvas",
